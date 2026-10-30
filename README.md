@@ -4,4 +4,6 @@ ZhiXu是一款充满特色且AI赋能的文献管理与阅读软件。除了基�
 
 **该软件目前适配Windows系统。**
 
-**[立即下载最新版 Zhixu.exe](https://github.com/CakeGeng/ZhiXu/releases/latest/download/Zhixu.exe)**
+**[立即下载最新版知序](https://github.com/CakeGeng/ZhiXu/releases/download/v1.0.0/Zhixu-Setup-1.0.0-x64.exe)**
+
+
