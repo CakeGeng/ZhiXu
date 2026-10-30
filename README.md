@@ -1,2 +1,2 @@
-The official repository for ZhiXu software, used to release the latest versions.
+知序软件官方仓库。
 
