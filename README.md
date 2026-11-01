@@ -2,7 +2,7 @@
 
 **该软件目前适配Windows系统。**
 
-**[立即下载最新版知序](https://github.com/CakeGeng/ZhiXu/releases/download/v1.0.0/Zhixu-Setup-1.0.0-x64.exe)**
+**[立即下载最新版知序](https://github.com/CakeGeng/ZhiXu/releases/download/v1.0.0/Zhixu-Setup-1.1.0-x64.exe)**
 
 **知序 v1.0.0 版本功能：**
 1. 可以在“知识库”中导入文献、文件，并分类整理，支持创建子文件夹。
