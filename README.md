@@ -1,6 +1,12 @@
-**知序 v1.1.0 版本更新（2026.11.02）：**
+**知序 v1.2.0 版本更新（2026.11.03）：**
 
-**[立即下载最新版知序](https://github.com/CakeGeng/ZhiXu/releases/download/v1.1.0/Zhixu-Setup-1.1.0-x64.exe)**
+[**立即下载知序v1.2.0**](https://github.com/CakeGeng/ZhiXu/releases/download/v1.2.0/Zhixu-Setup-1.2.0-x64.exe)
+
+1. 新增从Zotero中导入文献功能；
+2. 新增重复文献查找与合并功能；
+3. 其他已知问题修复。
+
+**知序 v1.1.0 版本更新（2026.11.02）：**
 
 1. 新增文件夹管理交互功能，以文件夹为单位整理文献更方便；
 2. 支持更换软件底板颜色；
